@@ -1,0 +1,11 @@
+Lesson Five: Plugins and Aliases
+
+This is a mininal SBT Scala web application. In order to make it functional follow the steps below:
+
+1. Add the xsbt-web-plugin Plugin to your application.
+2. Enable the JettyPlugin
+3. Create a "startJetty" task alias for the "~jetty:start" task
+4. Run "activator startJetty" to start the server and run the web application
+5. Navigate to "http://localhost:8080" with your browser
+
+The page should read "Hello, Embedded Jetty!"

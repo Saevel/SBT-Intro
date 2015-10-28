@@ -1,0 +1,4 @@
+Lesson Two: The very basics
+
+This is a simple SBT Scala Project. Run console commands to compile and run the project. The project, when run correctly,
+should display "Lesson Two Complete" in the console.

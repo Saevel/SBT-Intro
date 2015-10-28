@@ -1,0 +1,11 @@
+This is a tutorial project for SBT Intro lecture.
+
+As you might have noticed, there is no lesson-one project. The first exercise is to create a simple lesson-one project
+using Typesafe Activator yourself.
+
+The instructions for the following exercises are inside the README files of each of the subprojects o this project. Enjoy!
+
+
+Lesson One: Creating new projects
+
+Create a simple SBT Scala project unsing either "activator new" or "activator ui".

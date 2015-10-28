@@ -1,0 +1,6 @@
+Lesson Four: Dependency Management
+
+This is a sample Akka application. Add a Sonatype repository resolver and "akka-actor" dependency to make the project
+compile and run.
+
+The project should display a few intermittent "Ping" and "Pong" messages when run.

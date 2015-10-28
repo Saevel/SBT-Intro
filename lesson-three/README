@@ -1,0 +1,6 @@
+Lesson Three: Build Lifecycle
+
+This is a simple Scala SBT Project with Scalacheck tests.
+
+1. Run all the tests. All tests should pass
+2. Run SampleTest only. All the other tests should not be executed
